@@ -1,0 +1,18 @@
+{
+  "customers": [
+    {
+      "name": "ngo bao dai",
+      "phone": "910928392098",
+      "address": "123 Sun Street",
+      "membership": "Platinum",
+      "id": 1
+    },
+    {
+      "name": "ngo tien",
+      "phone": "0946464198",
+      "address": "viet nam",
+      "membership": "Basic",
+      "id": 2
+    }
+  ]
+}
